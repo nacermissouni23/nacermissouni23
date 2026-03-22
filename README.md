@@ -1,4 +1,4 @@
-# Hi, I'm Nacer Eddine 👋
+# Hi, I'm Nacer Eddine 
 
 **AI Engineering & Data Science student at ENSIA** · Building ML systems and LLM pipelines that solve real problems.
 
