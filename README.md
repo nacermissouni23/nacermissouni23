@@ -2,7 +2,7 @@
 
 **AI Engineering & Data Science student at ENSIA** · Building ML systems and LLM pipelines that solve real problems.
 
-I work at the intersection of machine learning, information retrieval, and applied AI — from RAG pipelines to anomaly detection to geospatial prediction. Most of my projects start with a concrete problem and end with something that actually runs.
+I work at the intersection of machine learning, information retrieval, and applied AI, from RAG pipelines to anomaly detection to geospatial prediction. Most of my projects start with a concrete problem and end with something that actually runs.
 
 ---
 
