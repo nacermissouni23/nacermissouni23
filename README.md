@@ -31,7 +31,7 @@ Tools        Git · Linux · Excel
 ## 📫 Reach me
 
 [![Email](https://img.shields.io/badge/email-nacereddine.missouni%40ensia.edu.dz-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:nacereddine.missouni@ensia.edu.dz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nacer--eddine--missouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nacer-eddine-missouni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nacer--eddine--missouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nacer-eddine-missouni-345836291/)
 
 ---
 
